@@ -15,14 +15,11 @@
                 "details": {
                     "simple": "description"
                 },
-                "Device Security Incident URL": {
-                    "simple": "devicesecurityincidenturl"
-                },
                 "Device Security ServiceNow Table Name": {
                     "simple": "devicesecurityservicenowtablename"
                 },
                 "Device Security ServiceNow Record ID": {
-                    "simple": "devicesecurityservicenowrecordid"
+                    "simple": "url"
                 },
                 "Alert Title": {
                     "simple": "name"
